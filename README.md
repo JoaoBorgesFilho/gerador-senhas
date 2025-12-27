@@ -6,6 +6,11 @@ Apesar de ser um projeto enxuto, ele resolve um problema real e serve como base 
 
 ---
 
+🔗 **Acesse online:**  
+https://joaoborgesfilho.github.io/gerador-senhas/
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5 (estrutura semântica)
